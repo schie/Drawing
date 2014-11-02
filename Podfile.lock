@@ -1,0 +1,26 @@
+PODS:
+  - ASOAnimatedButton (1.0.1):
+    - ASOAnimatedButton/BounceButton
+    - ASOAnimatedButton/TwoStateButton
+  - ASOAnimatedButton/BounceButton (1.0.1)
+  - ASOAnimatedButton/TwoStateButton (1.0.1)
+  - pop (1.0.7)
+  - Stencils (1.0.0)
+  - TOMSMorphingLabel (0.2.3)
+  - VBFPopFlatButton (0.0.5):
+    - pop
+
+DEPENDENCIES:
+  - ASOAnimatedButton
+  - Stencils
+  - TOMSMorphingLabel (~> 0.2.3)
+  - VBFPopFlatButton
+
+SPEC CHECKSUMS:
+  ASOAnimatedButton: 92bb13622b2a7f0f0b106525e21c7b2d21d6ab94
+  pop: 2f14a1ea61339767af9e66741b418c831b3844df
+  Stencils: 83eca177f6668fc4c22c6afc212c0e81ac14860b
+  TOMSMorphingLabel: f2443dbb4be2137847ed910ae2dd6adf3289c71c
+  VBFPopFlatButton: 023eb57c9c8e0a77d1cf926621085b0727b70b15
+
+COCOAPODS: 0.34.4
