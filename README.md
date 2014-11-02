@@ -1,10 +1,5 @@
-iOS-Project-Ideas
+Drawing
 =================
-
-Collection of Awesome Project Ideas
-
-#Projects
-###Drawing
 Whiteboard experience that allows for collaboration between multiple users across numerous devices.
 #####Setup
 1. Install a version of ruby that is at least 2.0.0
